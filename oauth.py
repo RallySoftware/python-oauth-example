@@ -10,7 +10,7 @@ from StringIO import StringIO
 
 web.config.debug = False
 # get a Client ID and Secret from 
-# https://login.rally1.rallydev.com/accounts/index.html#/clients
+# https://rally1.rallydev.com/login/accounts/index.html#/clients
 CLIENT_ID = os.environ.get('CLIENT_ID', '') 
 CLIENT_SECRET = os.environ.get('CLIENT_SECRET', '') 
 # Server URL must match the one specified when creating the client

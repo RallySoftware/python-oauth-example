@@ -1,7 +1,7 @@
 
 ## OAuth Python Sample
 
-This is an OAuth sample that uses a web.py server. You can find the app here: `http://rally-python-oauth.herokuapp.com/`
+This is an OAuth sample that uses a web.py server. You can find the app here: <http://rally-python-oauth.herokuapp.com/>
 
 We use a few python eggs:
 
